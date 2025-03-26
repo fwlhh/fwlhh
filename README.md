@@ -10,13 +10,16 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,kotlin,bash" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,bash,md" />
   
   <!-- Automation -->
   <img src="https://skillicons.dev/icons?i=selenium,postman,androidstudio" />
   
   <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=mysql,docker,git,linux" />
+
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=obsidian" />
 </p>
 
 ---
