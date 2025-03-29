@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,kotlin,bash,md" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,bash,md,java" />
   
   <!-- Automation -->
   <img src="https://skillicons.dev/icons?i=selenium,postman,androidstudio" />
