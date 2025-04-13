@@ -30,19 +30,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fwlhh&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
 </div>
 
----
-
-<h3 align="center">📫 Contact Me</h3>
-
-<p align="center">
-  <a href="mailto:fwl.hh@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud" />
-  </a>
-  <a href="https://t.me/fwlhh" target="_blank" style="margin-left: 10px">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fwlhh&label=Profile%20views&color=2962FF&style=flat" alt="Profile views" />
 </p>
